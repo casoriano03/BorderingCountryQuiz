@@ -1,0 +1,7583 @@
+﻿[
+  {
+    "country": "Abkhazia",
+    "neighbors": [
+      {
+        "country": "Georgia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Adélie Land",
+    "neighbors": [
+      {
+        "country": "Australian Antarctic Territory",
+        "borderType": "maritime|land",
+        "notes": "Australia"
+      }
+    ],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "Afghanistan",
+    "neighbors": [
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "Iran",
+        "borderType": "land"
+      },
+      {
+        "country": "Pakistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Tajikistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkmenistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Uzbekistan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Akrotiri and Dhekelia",
+    "neighbors": [
+      {
+        "country": "Cyprus",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "United Nations Buffer Zone in Cyprus",
+        "borderType": "land"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Albania",
+    "neighbors": [
+      {
+        "country": "Greece",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Montenegro",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "North Macedonia",
+        "borderType": "land"
+      },
+      {
+        "country": "Kosovo",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Algeria",
+    "neighbors": [
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Libya",
+        "borderType": "land"
+      },
+      {
+        "country": "Mali",
+        "borderType": "land"
+      },
+      {
+        "country": "Mauritania",
+        "borderType": "land"
+      },
+      {
+        "country": "Morocco",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Niger",
+        "borderType": "land"
+      },
+      {
+        "country": "Spain",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tunisia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Western Sahara",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "American Samoa",
+    "neighbors": [
+      {
+        "country": "Samoa",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tonga",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cook Islands",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Niue",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Tokelau",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Andorra",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "land"
+      },
+      {
+        "country": "Spain",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Angola",
+    "neighbors": [
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Republic of the Congo",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Namibia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Zambia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Anguilla",
+    "neighbors": [
+      {
+        "country": "Antigua and Barbuda",
+        "borderType": "maritime"
+      },
+      {
+        "country": "British Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Barthélemy",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Saint Martin",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "United States Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Montserrat",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Saint Barthélemy",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Argentina",
+    "neighbors": [
+      {
+        "country": "Bolivia",
+        "borderType": "land"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "land"
+      },
+      {
+        "country": "Chile",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Paraguay",
+        "borderType": "land"
+      },
+      {
+        "country": "Uruguay",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Falkland Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Argentine Antarctica",
+    "neighbors": [
+      {
+        "country": "Chilean Antarctic Territory",
+        "borderType": "maritime|land",
+        "notes": "Chile"
+      },
+      {
+        "country": "British Antarctic Territory",
+        "borderType": "maritime|land",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": [],
+    "notes": "Argentina"
+  },
+  {
+    "country": "Armenia",
+    "neighbors": [
+      {
+        "country": "Azerbaijan",
+        "borderType": "land"
+      },
+      {
+        "country": "Georgia",
+        "borderType": "land"
+      },
+      {
+        "country": "Iran",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Republic of Artsakh",
+    "neighbors": [
+      {
+        "country": "Armenia",
+        "borderType": "land"
+      },
+      {
+        "country": "Azerbaijan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Aruba",
+    "neighbors": [
+      {
+        "country": "Curaçao",
+        "borderType": "maritime",
+        "notes": "Netherlands"
+      },
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "Netherlands"
+  },
+  {
+    "country": "Ashmore and Cartier Islands",
+    "neighbors": [
+      {
+        "country": "Australia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "East Timor",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "Australia"
+  },
+  {
+    "country": "Australia (including outlying islands)",
+    "neighbors": [
+      {
+        "country": "East Timor",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "New Zealand",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Papua New Guinea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Solomon Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "French Southern and Antarctic Lands",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "New Caledonia",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": [
+      "Ashmore and Cartier Islands",
+      "Christmas Island",
+      "Cocos (Keeling) Islands",
+      "Coral Sea Islands",
+      "Heard Island and McDonald Islands",
+      "Norfolk Island"
+    ]
+  },
+  {
+    "country": "Australia (excluding outlying islands)",
+    "neighbors": [
+      {
+        "country": "Ashmore and Cartier Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "Coral Sea Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "East Timor",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "New Zealand",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Papua New Guinea",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Australian Antarctic Territory",
+    "neighbors": [
+      {
+        "country": "Adélie Land",
+        "borderType": "maritime|land",
+        "notes": "France"
+      },
+      {
+        "country": "Queen Maud Land",
+        "borderType": "maritime|land",
+        "notes": "Norway"
+      },
+      {
+        "country": "Ross Dependency",
+        "borderType": "maritime|land",
+        "notes": "New Zealand"
+      }
+    ],
+    "includes": [],
+    "notes": "Australia"
+  },
+  {
+    "country": "Austria",
+    "neighbors": [
+      {
+        "country": "Czech Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Germany",
+        "borderType": "land"
+      },
+      {
+        "country": "Hungary",
+        "borderType": "land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "land"
+      },
+      {
+        "country": "Liechtenstein",
+        "borderType": "land"
+      },
+      {
+        "country": "Slovakia",
+        "borderType": "land"
+      },
+      {
+        "country": "Slovenia",
+        "borderType": "land"
+      },
+      {
+        "country": "Switzerland",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Azerbaijan",
+    "neighbors": [
+      {
+        "country": "Armenia",
+        "borderType": "land"
+      },
+      {
+        "country": "Georgia",
+        "borderType": "land"
+      },
+      {
+        "country": "Iran",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Kazakhstan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkmenistan",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Bahamas",
+    "neighbors": [
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United States",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Turks and Caicos Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Bahrain",
+    "neighbors": [
+      {
+        "country": "Iran",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Qatar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Baker Island",
+    "neighbors": [
+      {
+        "country": "Howland Island",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Bangladesh",
+    "neighbors": [
+      {
+        "country": "Myanmar",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "India",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Barbados",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Guyana",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Lucia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Belarus",
+    "neighbors": [
+      {
+        "country": "Latvia",
+        "borderType": "land"
+      },
+      {
+        "country": "Lithuania",
+        "borderType": "land"
+      },
+      {
+        "country": "Poland",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "land"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Belgium",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Germany",
+        "borderType": "land"
+      },
+      {
+        "country": "Luxembourg",
+        "borderType": "land"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Belize",
+    "neighbors": [
+      {
+        "country": "Guatemala",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mexico",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Benin",
+    "neighbors": [
+      {
+        "country": "Burkina Faso",
+        "borderType": "land"
+      },
+      {
+        "country": "Niger",
+        "borderType": "land"
+      },
+      {
+        "country": "Nigeria",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Togo",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Bermuda",
+    "neighbors": [],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Bhutan",
+    "neighbors": [
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "India",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Bolivia",
+    "neighbors": [
+      {
+        "country": "Argentina",
+        "borderType": "land"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "land"
+      },
+      {
+        "country": "Chile",
+        "borderType": "land"
+      },
+      {
+        "country": "Paraguay",
+        "borderType": "land"
+      },
+      {
+        "country": "Peru",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "neighbors": [
+      {
+        "country": "Croatia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Montenegro",
+        "borderType": "land"
+      },
+      {
+        "country": "Serbia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Botswana",
+    "neighbors": [
+      {
+        "country": "Namibia",
+        "borderType": "land"
+      },
+      {
+        "country": "South Africa",
+        "borderType": "land"
+      },
+      {
+        "country": "Zambia",
+        "borderType": "land"
+      },
+      {
+        "country": "Zimbabwe",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Bouvet Island",
+    "neighbors": [],
+    "includes": [],
+    "notes": "Norway"
+  },
+  {
+    "country": "Brazil",
+    "neighbors": [
+      {
+        "country": "Argentina",
+        "borderType": "land"
+      },
+      {
+        "country": "Bolivia",
+        "borderType": "land"
+      },
+      {
+        "country": "Colombia",
+        "borderType": "land"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Guyana",
+        "borderType": "land"
+      },
+      {
+        "country": "Paraguay",
+        "borderType": "land"
+      },
+      {
+        "country": "Peru",
+        "borderType": "land"
+      },
+      {
+        "country": "Suriname",
+        "borderType": "land"
+      },
+      {
+        "country": "Uruguay",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "British Antarctic Territory",
+    "neighbors": [
+      {
+        "country": "Chilean Antarctic Territory",
+        "borderType": "maritime|land",
+        "notes": "Chile"
+      },
+      {
+        "country": "Argentine Antarctica",
+        "borderType": "maritime|land",
+        "notes": "Argentina"
+      },
+      {
+        "country": "Queen Maud Land",
+        "borderType": "maritime|land",
+        "notes": "Norway"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "neighbors": [
+      {
+        "country": "Maldives",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "British Virgin Islands",
+    "neighbors": [
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Puerto Rico",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "United States Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Brunei Darussalam",
+    "neighbors": [
+      {
+        "country": "China",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Malaysia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Philippines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Taiwan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Bulgaria",
+    "neighbors": [
+      {
+        "country": "Greece",
+        "borderType": "land"
+      },
+      {
+        "country": "North Macedonia",
+        "borderType": "land"
+      },
+      {
+        "country": "Romania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Serbia",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Burkina Faso",
+    "neighbors": [
+      {
+        "country": "Benin",
+        "borderType": "land"
+      },
+      {
+        "country": "Côte d'Ivoire",
+        "borderType": "land"
+      },
+      {
+        "country": "Ghana",
+        "borderType": "land"
+      },
+      {
+        "country": "Mali",
+        "borderType": "land"
+      },
+      {
+        "country": "Niger",
+        "borderType": "land"
+      },
+      {
+        "country": "Togo",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Burundi",
+    "neighbors": [
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "Rwanda",
+        "borderType": "land"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Cambodia",
+    "neighbors": [
+      {
+        "country": "Laos",
+        "borderType": "land"
+      },
+      {
+        "country": "Thailand",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Cameroon",
+    "neighbors": [
+      {
+        "country": "Central African Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Chad",
+        "borderType": "land"
+      },
+      {
+        "country": "Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Gabon",
+        "borderType": "land"
+      },
+      {
+        "country": "Nigeria",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Canada",
+    "neighbors": [
+      {
+        "country": "United States",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Greenland",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      },
+      {
+        "country": "Saint Pierre and Miquelon",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Cape Verde",
+    "neighbors": [
+      {
+        "country": "The Gambia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mauritania",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Senegal",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Cayman Islands",
+    "neighbors": [
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Central African Republic",
+    "neighbors": [
+      {
+        "country": "Cameroon",
+        "borderType": "land"
+      },
+      {
+        "country": "Chad",
+        "borderType": "land"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "South Sudan",
+        "borderType": "land"
+      },
+      {
+        "country": "Sudan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Chad",
+    "neighbors": [
+      {
+        "country": "Cameroon",
+        "borderType": "land"
+      },
+      {
+        "country": "Central African Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Libya",
+        "borderType": "land"
+      },
+      {
+        "country": "Niger",
+        "borderType": "land"
+      },
+      {
+        "country": "Nigeria",
+        "borderType": "land"
+      },
+      {
+        "country": "Sudan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Chile",
+    "neighbors": [
+      {
+        "country": "Argentina",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Bolivia",
+        "borderType": "land"
+      },
+      {
+        "country": "Peru",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Chilean Antarctic Territory",
+    "neighbors": [
+      {
+        "country": "Argentine Antarctica",
+        "borderType": "maritime|land",
+        "notes": "Argentina"
+      },
+      {
+        "country": "British Antarctic Territory",
+        "borderType": "maritime|land",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Peter I Island",
+        "borderType": "maritime",
+        "notes": "Norway"
+      }
+    ],
+    "includes": [],
+    "notes": "Chile"
+  },
+  {
+    "country": "People's Republic of China",
+    "neighbors": [
+      {
+        "country": "Afghanistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Bhutan",
+        "borderType": "land"
+      },
+      {
+        "country": "Brunei",
+        "borderType": "maritime"
+      },
+      {
+        "country": "India",
+        "borderType": "land"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Japan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Kazakhstan",
+        "borderType": "land"
+      },
+      {
+        "country": "North Korea",
+        "borderType": "land"
+      },
+      {
+        "country": "South Korea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "borderType": "land"
+      },
+      {
+        "country": "Laos",
+        "borderType": "land"
+      },
+      {
+        "country": "Malaysia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mongolia",
+        "borderType": "land"
+      },
+      {
+        "country": "Myanmar",
+        "borderType": "land"
+      },
+      {
+        "country": "Nepal",
+        "borderType": "land"
+      },
+      {
+        "country": "Pakistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Philippines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Russia",
+        "borderType": "land"
+      },
+      {
+        "country": "Tajikistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "land"
+      },
+      {
+        "country": "Hong Kong",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Macau",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Taiwan",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "excluding the Special Administrative Regions of  Hong Kong and  Macau,as well as the island country of  Taiwan, which is claimed but not administered by the PRC"
+  },
+  {
+    "country": "Christmas Island",
+    "neighbors": [
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "Australia"
+  },
+  {
+    "country": "Clipperton Island",
+    "neighbors": [],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "neighbors": [],
+    "includes": [],
+    "notes": "Keeling"
+  },
+  {
+    "country": "Colombia",
+    "neighbors": [
+      {
+        "country": "Brazil",
+        "borderType": "land"
+      },
+      {
+        "country": "Costa Rica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Ecuador",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Nicaragua",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Panama",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Peru",
+        "borderType": "land"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Comoros",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Madagascar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mozambique",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Seychelles",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "maritime"
+      },
+      {
+        "country": "French Southern and Antarctic Lands",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "neighbors": [
+      {
+        "country": "Angola",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Burundi",
+        "borderType": "land"
+      },
+      {
+        "country": "Central African Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Republic of the Congo",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Rwanda",
+        "borderType": "land"
+      },
+      {
+        "country": "South Sudan",
+        "borderType": "land"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "land"
+      },
+      {
+        "country": "Uganda",
+        "borderType": "land"
+      },
+      {
+        "country": "Zambia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Congo",
+    "neighbors": [
+      {
+        "country": "Angola",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Cameroon",
+        "borderType": "land"
+      },
+      {
+        "country": "Central African Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Gabon",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Cook Islands",
+    "neighbors": [
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "American Samoa",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "French Polynesia",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Niue",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Tokelau",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      }
+    ],
+    "includes": [],
+    "notes": "New Zealand"
+  },
+  {
+    "country": "Coral Sea Islands",
+    "neighbors": [
+      {
+        "country": "Australia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "New Caledonia",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Papua New Guinea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Solomon Islands",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "Australia"
+  },
+  {
+    "country": "Costa Rica",
+    "neighbors": [
+      {
+        "country": "Colombia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Ecuador",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Nicaragua",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Panama",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "neighbors": [
+      {
+        "country": "Burkina Faso",
+        "borderType": "land"
+      },
+      {
+        "country": "Ghana",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Guinea",
+        "borderType": "land"
+      },
+      {
+        "country": "Liberia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Mali",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Croatia",
+    "neighbors": [
+      {
+        "country": "Bosnia and Herzegovina",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Hungary",
+        "borderType": "land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Montenegro",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Serbia",
+        "borderType": "land"
+      },
+      {
+        "country": "Slovenia",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Cuba",
+    "neighbors": [
+      {
+        "country": "Bahamas",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mexico",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United States",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cayman Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Navassa Island",
+        "borderType": "maritime",
+        "notes": "United States/Haiti"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Curaçao",
+    "neighbors": [
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Aruba",
+        "borderType": "maritime",
+        "notes": "Netherlands"
+      }
+    ],
+    "includes": [],
+    "notes": "Netherlands"
+  },
+  {
+    "country": "Cyprus",
+    "neighbors": [
+      {
+        "country": "Northern Cyprus",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Egypt",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Greece",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Israel",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Lebanon",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Syria",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Akrotiri and Dhekelia",
+        "borderType": "maritime|land",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "United Nations Buffer Zone in Cyprus",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Northern Cyprus",
+    "neighbors": [
+      {
+        "country": "Cyprus",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Syria",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Akrotiri and Dhekelia",
+        "borderType": "maritime|land",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "United Nations Buffer Zone in Cyprus",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Czech Republic",
+    "neighbors": [
+      {
+        "country": "Austria",
+        "borderType": "land"
+      },
+      {
+        "country": "Germany",
+        "borderType": "land"
+      },
+      {
+        "country": "Poland",
+        "borderType": "land"
+      },
+      {
+        "country": "Slovakia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Denmark",
+    "neighbors": [
+      {
+        "country": "Germany",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Norway",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Poland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kingdom of Denmark",
+    "neighbors": [
+      {
+        "country": "Canada",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Germany",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Iceland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Norway",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Poland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Jan Mayen",
+        "borderType": "maritime",
+        "notes": "Norway"
+      },
+      {
+        "country": "Svalbard",
+        "borderType": "maritime",
+        "notes": "Norway"
+      }
+    ],
+    "includes": [
+      "Denmark",
+      "Faroe Islands",
+      "Greenland"
+    ]
+  },
+  {
+    "country": "Djibouti",
+    "neighbors": [
+      {
+        "country": "Eritrea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Ethiopia",
+        "borderType": "land"
+      },
+      {
+        "country": "Somalia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Yemen",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Dominica",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Dominican Republic",
+    "neighbors": [
+      {
+        "country": "Colombia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Aruba",
+        "borderType": "maritime",
+        "notes": "Netherlands"
+      },
+      {
+        "country": "Curaçao",
+        "borderType": "maritime",
+        "notes": "Netherlands"
+      },
+      {
+        "country": "Puerto Rico",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Turks and Caicos Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "East Timor",
+    "neighbors": [
+      {
+        "country": "Australia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Ashmore and Cartier Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Ecuador",
+    "neighbors": [
+      {
+        "country": "Colombia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Costa Rica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Peru",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Egypt",
+    "neighbors": [
+      {
+        "country": "Cyprus",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Greece",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Israel",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Jordan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Libya",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Sudan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Palestine",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "El Salvador",
+    "neighbors": [
+      {
+        "country": "Guatemala",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Nicaragua",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Equatorial Guinea",
+    "neighbors": [
+      {
+        "country": "Cameroon",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Gabon",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Nigeria",
+        "borderType": "maritime"
+      },
+      {
+        "country": "São Tomé and Príncipe",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Eritrea",
+    "neighbors": [
+      {
+        "country": "Djibouti",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Sudan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Ethiopia",
+        "borderType": "land"
+      },
+      {
+        "country": "Yemen",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Estonia",
+    "neighbors": [
+      {
+        "country": "Finland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Latvia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Eswatini",
+    "neighbors": [
+      {
+        "country": "Mozambique",
+        "borderType": "land"
+      },
+      {
+        "country": "South Africa",
+        "borderType": "land"
+      }
+    ],
+    "includes": [],
+    "notes": "Swaziland"
+  },
+  {
+    "country": "Ethiopia",
+    "neighbors": [
+      {
+        "country": "Djibouti",
+        "borderType": "land"
+      },
+      {
+        "country": "Eritrea",
+        "borderType": "land"
+      },
+      {
+        "country": "Kenya",
+        "borderType": "land"
+      },
+      {
+        "country": "Somalia",
+        "borderType": "land"
+      },
+      {
+        "country": "South Sudan",
+        "borderType": "land"
+      },
+      {
+        "country": "Sudan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Falkland Islands",
+    "neighbors": [
+      {
+        "country": "Argentina",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Faroe Islands",
+    "neighbors": [
+      {
+        "country": "Iceland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Norway",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "Denmark"
+  },
+  {
+    "country": "Fiji",
+    "neighbors": [
+      {
+        "country": "New Zealand",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Solomon Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tonga",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tuvalu",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vanuatu",
+        "borderType": "maritime"
+      },
+      {
+        "country": "New Caledonia",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Wallis and Futuna",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Finland",
+    "neighbors": [
+      {
+        "country": "Estonia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Norway",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "France (excluding French collectivities and territories)",
+    "neighbors": [
+      {
+        "country": "Andorra",
+        "borderType": "land"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Barbados",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Belgium",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Comoros",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Dominica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Germany",
+        "borderType": "land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Luxembourg",
+        "borderType": "land"
+      },
+      {
+        "country": "Madagascar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mauritius",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Monaco",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saint Lucia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Spain",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Switzerland",
+        "borderType": "land"
+      },
+      {
+        "country": "Suriname",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "French Southern and Antarctic Lands",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Guernsey",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Jersey",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Montserrat",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "France (including French collectivities and territories)",
+    "neighbors": [
+      {
+        "country": "Andorra",
+        "borderType": "land"
+      },
+      {
+        "country": "Antigua and Barbuda",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Barbados",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Belgium",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Canada",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Comoros",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Dominica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Germany",
+        "borderType": "land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Luxembourg",
+        "borderType": "land"
+      },
+      {
+        "country": "Madagascar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mauritius",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Monaco",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Mozambique",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Lucia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Samoa",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Seychelles",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Solomon Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Spain",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Suriname",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Switzerland",
+        "borderType": "land"
+      },
+      {
+        "country": "Tonga",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tuvalu",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vanuatu",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Cook Islands",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Coral Sea Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "Guernsey",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Heard Island and McDonald Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "Jersey",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Montserrat",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Sint Maarten",
+        "borderType": "maritime|land",
+        "notes": "Netherlands"
+      },
+      {
+        "country": "Norfolk Island",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "Pitcairn Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Tokelau",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      }
+    ],
+    "includes": [
+      "Clipperton Island",
+      "French Polynesia",
+      "French Southern and Antarctic Lands",
+      "New Caledonia",
+      "Saint Barthélemy",
+      "Saint Martin",
+      "Saint Pierre and Miquelon",
+      "Wallis and Futuna"
+    ],
+    "notes": "including French collectivities and territories"
+  },
+  {
+    "country": "French Polynesia",
+    "neighbors": [
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cook Islands",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Pitcairn Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "French Southern and Antarctic Lands Excluding Adélie Land",
+    "neighbors": [
+      {
+        "country": "Comoros",
+        "borderType": "maritime"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Madagascar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mauritius",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mozambique",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Seychelles",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Heard Island and McDonald Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      }
+    ],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "Gabon",
+    "neighbors": [
+      {
+        "country": "Cameroon",
+        "borderType": "land"
+      },
+      {
+        "country": "Republic of the Congo",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "São Tomé and Príncipe",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "The Gambia",
+    "neighbors": [
+      {
+        "country": "Cape Verde",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Senegal",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Georgia",
+    "neighbors": [
+      {
+        "country": "Armenia",
+        "borderType": "land"
+      },
+      {
+        "country": "Azerbaijan",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Germany",
+    "neighbors": [
+      {
+        "country": "Austria",
+        "borderType": "land"
+      },
+      {
+        "country": "Belgium",
+        "borderType": "land"
+      },
+      {
+        "country": "Czech Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Denmark",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "France",
+        "borderType": "land"
+      },
+      {
+        "country": "Luxembourg",
+        "borderType": "land"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Poland",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Switzerland",
+        "borderType": "land"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Ghana",
+    "neighbors": [
+      {
+        "country": "Burkina Faso",
+        "borderType": "land"
+      },
+      {
+        "country": "Côte d'Ivoire",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Togo",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Gibraltar",
+    "neighbors": [
+      {
+        "country": "Spain",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Greece",
+    "neighbors": [
+      {
+        "country": "Albania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Bulgaria",
+        "borderType": "land"
+      },
+      {
+        "country": "Cyprus",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Egypt",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Libya",
+        "borderType": "maritime"
+      },
+      {
+        "country": "North Macedonia",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Greenland",
+    "neighbors": [
+      {
+        "country": "Canada",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iceland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Jan Mayen",
+        "borderType": "maritime",
+        "notes": "Norway"
+      },
+      {
+        "country": "Svalbard",
+        "borderType": "maritime",
+        "notes": "Norway"
+      }
+    ],
+    "includes": [],
+    "notes": "Denmark"
+  },
+  {
+    "country": "Grenada",
+    "neighbors": [
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Guam",
+    "neighbors": [
+      {
+        "country": "Federated States of Micronesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Northern Mariana Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Guatemala",
+    "neighbors": [
+      {
+        "country": "Belize",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "El Salvador",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Mexico",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Guernsey",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Jersey",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Guinea",
+    "neighbors": [
+      {
+        "country": "Côte d'Ivoire",
+        "borderType": "land"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Liberia",
+        "borderType": "land"
+      },
+      {
+        "country": "Mali",
+        "borderType": "land"
+      },
+      {
+        "country": "Senegal",
+        "borderType": "land"
+      },
+      {
+        "country": "Sierra Leone",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Guinea-Bissau",
+    "neighbors": [
+      {
+        "country": "Guinea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Senegal",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Guyana",
+    "neighbors": [
+      {
+        "country": "Barbados",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "land"
+      },
+      {
+        "country": "Suriname",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Haiti",
+    "neighbors": [
+      {
+        "country": "Bahamas",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Colombia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Navassa Island",
+        "borderType": "maritime",
+        "notes": "United States/Haiti"
+      },
+      {
+        "country": "Turks and Caicos Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "neighbors": [
+      {
+        "country": "French Southern and Antarctic Lands",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": [],
+    "notes": "Australia"
+  },
+  {
+    "country": "Honduras",
+    "neighbors": [
+      {
+        "country": "Belize",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "El Salvador",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Guatemala",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mexico",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Nicaragua",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Cayman Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Hong Kong",
+    "neighbors": [
+      {
+        "country": "China  Macau",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Howland Island",
+    "neighbors": [
+      {
+        "country": "Baker Island",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Hungary",
+    "neighbors": [
+      {
+        "country": "Austria",
+        "borderType": "land"
+      },
+      {
+        "country": "Croatia",
+        "borderType": "land"
+      },
+      {
+        "country": "Romania",
+        "borderType": "land"
+      },
+      {
+        "country": "Serbia",
+        "borderType": "land"
+      },
+      {
+        "country": "Slovakia",
+        "borderType": "land"
+      },
+      {
+        "country": "Slovenia",
+        "borderType": "land"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Iceland",
+    "neighbors": [
+      {
+        "country": "Faroe Islands",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      },
+      {
+        "country": "Greenland",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      },
+      {
+        "country": "Jan Mayen",
+        "borderType": "maritime",
+        "notes": "Norway"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "India",
+    "neighbors": [
+      {
+        "country": "Bangladesh",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Bhutan",
+        "borderType": "land"
+      },
+      {
+        "country": "Myanmar",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Maldives",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Nepal",
+        "borderType": "land"
+      },
+      {
+        "country": "Pakistan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Sri Lanka",
+        "borderType": "maritime|land",
+        "notes": "M/L"
+      },
+      {
+        "country": "Thailand",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Indonesia",
+    "neighbors": [
+      {
+        "country": "Australia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "China",
+        "borderType": "maritime"
+      },
+      {
+        "country": "East Timor",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "India",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Malaysia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Palau",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Papua New Guinea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Philippines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Singapore",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Taiwan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Thailand",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Ashmore and Cartier Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "Christmas Island",
+        "borderType": "maritime",
+        "notes": "Australia"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Iran",
+    "neighbors": [
+      {
+        "country": "Afghanistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Armenia",
+        "borderType": "land"
+      },
+      {
+        "country": "Azerbaijan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Bahrain",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iraq",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Kuwait",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Oman",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Pakistan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Qatar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkmenistan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "United Arab Emirates",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Iraq",
+    "neighbors": [
+      {
+        "country": "Iran",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Jordan",
+        "borderType": "land"
+      },
+      {
+        "country": "Kuwait",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "land"
+      },
+      {
+        "country": "Syria",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Ireland",
+    "neighbors": [
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Isle of Man",
+    "neighbors": [
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Israel",
+    "neighbors": [
+      {
+        "country": "Cyprus",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Egypt",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Jordan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Lebanon",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Syria",
+        "borderType": "land"
+      },
+      {
+        "country": "Palestine",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Italy",
+    "neighbors": [
+      {
+        "country": "Albania",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Algeria",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Austria",
+        "borderType": "land"
+      },
+      {
+        "country": "Croatia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Greece",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Libya",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Malta",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Montenegro",
+        "borderType": "maritime"
+      },
+      {
+        "country": "San Marino",
+        "borderType": "land"
+      },
+      {
+        "country": "Slovenia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Spain",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Switzerland",
+        "borderType": "land"
+      },
+      {
+        "country": "Tunisia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vatican City",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Jamaica",
+    "neighbors": [
+      {
+        "country": "Colombia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Nicaragua",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cayman Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Navassa Island",
+        "borderType": "maritime",
+        "notes": "United States/Haiti"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Jan Mayen",
+    "neighbors": [
+      {
+        "country": "Iceland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Greenland",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      }
+    ],
+    "includes": [],
+    "notes": "Norway"
+  },
+  {
+    "country": "Japan",
+    "neighbors": [
+      {
+        "country": "China",
+        "borderType": "maritime"
+      },
+      {
+        "country": "South Korea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Palau",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Philippines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Northern Mariana Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Taiwan",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Jarvis Island",
+    "neighbors": [
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Jersey",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Guernsey",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Johnston Atoll",
+    "neighbors": [],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Jordan",
+    "neighbors": [
+      {
+        "country": "Egypt",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iraq",
+        "borderType": "land"
+      },
+      {
+        "country": "Israel",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Syria",
+        "borderType": "land"
+      },
+      {
+        "country": "Palestine",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kazakhstan",
+    "neighbors": [
+      {
+        "country": "Azerbaijan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Turkmenistan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Uzbekistan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kenya",
+    "neighbors": [
+      {
+        "country": "Ethiopia",
+        "borderType": "land"
+      },
+      {
+        "country": "Somalia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "South Sudan",
+        "borderType": "land"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Uganda",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kingman Reef",
+    "neighbors": [
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Palmyra Atoll",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Kiribati",
+    "neighbors": [
+      {
+        "country": "Marshall Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Nauru",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tuvalu",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cook Islands",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "French Polynesia",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Baker Island",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Jarvis Island",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Kingman Reef",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Palmyra Atoll",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Tokelau",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "North Korea",
+    "neighbors": [
+      {
+        "country": "China",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "South Korea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "South Korea",
+    "neighbors": [
+      {
+        "country": "China",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Japan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "North Korea",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kosovo",
+    "neighbors": [
+      {
+        "country": "Albania",
+        "borderType": "land"
+      },
+      {
+        "country": "Montenegro",
+        "borderType": "land"
+      },
+      {
+        "country": "North Macedonia",
+        "borderType": "land"
+      },
+      {
+        "country": "Serbia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kuwait",
+    "neighbors": [
+      {
+        "country": "Iran",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iraq",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kyrgyzstan",
+    "neighbors": [
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "Kazakhstan",
+        "borderType": "land"
+      },
+      {
+        "country": "Tajikistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Uzbekistan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Laos",
+    "neighbors": [
+      {
+        "country": "Myanmar",
+        "borderType": "land"
+      },
+      {
+        "country": "Cambodia",
+        "borderType": "land"
+      },
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "Thailand",
+        "borderType": "land"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Latvia",
+    "neighbors": [
+      {
+        "country": "Belarus",
+        "borderType": "land"
+      },
+      {
+        "country": "Estonia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Lithuania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "land"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Lebanon",
+    "neighbors": [
+      {
+        "country": "Cyprus",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Israel",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Syria",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Lesotho",
+    "neighbors": [
+      {
+        "country": "South Africa",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Liberia",
+    "neighbors": [
+      {
+        "country": "Côte d'Ivoire",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Guinea",
+        "borderType": "land"
+      },
+      {
+        "country": "Sierra Leone",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Libya",
+    "neighbors": [
+      {
+        "country": "Algeria",
+        "borderType": "land"
+      },
+      {
+        "country": "Chad",
+        "borderType": "land"
+      },
+      {
+        "country": "Egypt",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Greece",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Malta",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Niger",
+        "borderType": "land"
+      },
+      {
+        "country": "Sudan",
+        "borderType": "land"
+      },
+      {
+        "country": "Tunisia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Liechtenstein",
+    "neighbors": [
+      {
+        "country": "Austria",
+        "borderType": "land"
+      },
+      {
+        "country": "Switzerland",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Lithuania",
+    "neighbors": [
+      {
+        "country": "Belarus",
+        "borderType": "land"
+      },
+      {
+        "country": "Latvia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Poland",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Luxembourg",
+    "neighbors": [
+      {
+        "country": "Belgium",
+        "borderType": "land"
+      },
+      {
+        "country": "France",
+        "borderType": "land"
+      },
+      {
+        "country": "Germany",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Macau",
+    "neighbors": [
+      {
+        "country": "China Hong Kong",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Madagascar",
+    "neighbors": [
+      {
+        "country": "Comoros",
+        "borderType": "maritime"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mauritius",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mozambique",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Seychelles",
+        "borderType": "maritime"
+      },
+      {
+        "country": "French Southern and Antarctic Lands",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Malawi",
+    "neighbors": [
+      {
+        "country": "Mozambique",
+        "borderType": "land"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "land"
+      },
+      {
+        "country": "Zambia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Malaysia",
+    "neighbors": [
+      {
+        "country": "Brunei",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "China",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Philippines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Singapore",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Thailand",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Taiwan",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Maldives",
+    "neighbors": [
+      {
+        "country": "India",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Sri Lanka",
+        "borderType": "maritime"
+      },
+      {
+        "country": "British Indian Ocean Territory",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Mali",
+    "neighbors": [
+      {
+        "country": "Algeria",
+        "borderType": "land"
+      },
+      {
+        "country": "Burkina Faso",
+        "borderType": "land"
+      },
+      {
+        "country": "Côte d'Ivoire",
+        "borderType": "land"
+      },
+      {
+        "country": "Guinea",
+        "borderType": "land"
+      },
+      {
+        "country": "Mauritania",
+        "borderType": "land"
+      },
+      {
+        "country": "Niger",
+        "borderType": "land"
+      },
+      {
+        "country": "Senegal",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Malta",
+    "neighbors": [
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Libya",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tunisia",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Marshall Islands",
+    "neighbors": [
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Federated States of Micronesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Nauru",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Wake Island",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Mauritania",
+    "neighbors": [
+      {
+        "country": "Algeria",
+        "borderType": "land"
+      },
+      {
+        "country": "Cape Verde",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mali",
+        "borderType": "land"
+      },
+      {
+        "country": "Senegal",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Western Sahara",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Mauritius",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Madagascar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Seychelles",
+        "borderType": "maritime"
+      },
+      {
+        "country": "French Southern and Antarctic Lands",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Mexico",
+    "neighbors": [
+      {
+        "country": "Belize",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Guatemala",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United States",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "neighbors": [
+      {
+        "country": "Marshall Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Palau",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Papua New Guinea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Guam",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Midway Atoll",
+    "neighbors": [
+      {
+        "country": "United States",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Moldova",
+    "neighbors": [
+      {
+        "country": "Romania",
+        "borderType": "land"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Monaco",
+    "neighbors": [
+      {
+        "country": "France",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Mongolia",
+    "neighbors": [
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Montenegro",
+    "neighbors": [
+      {
+        "country": "Albania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Bosnia and Herzegovina",
+        "borderType": "land"
+      },
+      {
+        "country": "Croatia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Serbia",
+        "borderType": "land"
+      },
+      {
+        "country": "Kosovo",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Montserrat",
+    "neighbors": [
+      {
+        "country": "Antigua and Barbuda",
+        "borderType": "maritime"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Morocco",
+    "neighbors": [
+      {
+        "country": "Algeria",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Portugal",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Spain",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Western Sahara",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Mozambique",
+    "neighbors": [
+      {
+        "country": "Comoros",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Eswatini",
+        "borderType": "land",
+        "notes": "Swaziland"
+      },
+      {
+        "country": "Madagascar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Malawi",
+        "borderType": "land"
+      },
+      {
+        "country": "South Africa",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Zambia",
+        "borderType": "land"
+      },
+      {
+        "country": "Zimbabwe",
+        "borderType": "land"
+      },
+      {
+        "country": "French Southern and Antarctic Lands",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Myanmar",
+    "neighbors": [
+      {
+        "country": "Bangladesh",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "India",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Laos",
+        "borderType": "land"
+      },
+      {
+        "country": "Thailand",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Namibia",
+    "neighbors": [
+      {
+        "country": "Angola",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Botswana",
+        "borderType": "land"
+      },
+      {
+        "country": "South Africa",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Zambia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Nauru",
+    "neighbors": [
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Marshall Islands",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Navassa Island",
+    "neighbors": [
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United States/Haiti"
+  },
+  {
+    "country": "Nepal",
+    "neighbors": [
+      {
+        "country": "India",
+        "borderType": "land"
+      },
+      {
+        "country": "China",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Netherlands",
+    "neighbors": [
+      {
+        "country": "Belgium",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Germany",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Curaçao",
+        "borderType": "maritime",
+        "notes": "Netherlands"
+      },
+      {
+        "country": "Saint Barthélemy",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Saint Martin",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Sint Maarten",
+        "borderType": "maritime|land",
+        "notes": "Netherlands"
+      },
+      {
+        "country": "United States Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kingdom of the Netherlands",
+    "neighbors": [
+      {
+        "country": "Belgium",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Germany",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Saint Barthélemy",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Saint Martin",
+        "borderType": "maritime|land",
+        "notes": "France"
+      },
+      {
+        "country": "United States Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [
+      "Aruba",
+      "Curaçao",
+      "Netherlands",
+      "Sint Maarten"
+    ]
+  },
+  {
+    "country": "New Caledonia",
+    "neighbors": [
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Solomon Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vanuatu",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Coral Sea Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "Norfolk Island",
+        "borderType": "maritime",
+        "notes": "Australia"
+      }
+    ],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "New Zealand",
+    "neighbors": [
+      {
+        "country": "Australia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Norfolk Island",
+        "borderType": "maritime",
+        "notes": "Australia"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Realm of New Zealand",
+    "neighbors": [
+      {
+        "country": "Australia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Samoa",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tonga",
+        "borderType": "maritime"
+      },
+      {
+        "country": "American Samoa",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "French Polynesia",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Norfolk Island",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "Wallis and Futuna",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": [
+      "Cook Islands",
+      "New Zealand",
+      "Niue",
+      "Tokelau"
+    ]
+  },
+  {
+    "country": "Nicaragua",
+    "neighbors": [
+      {
+        "country": "Colombia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Costa Rica",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "El Salvador",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Panama",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Niger",
+    "neighbors": [
+      {
+        "country": "Algeria",
+        "borderType": "land"
+      },
+      {
+        "country": "Benin",
+        "borderType": "land"
+      },
+      {
+        "country": "Burkina Faso",
+        "borderType": "land"
+      },
+      {
+        "country": "Chad",
+        "borderType": "land"
+      },
+      {
+        "country": "Libya",
+        "borderType": "land"
+      },
+      {
+        "country": "Mali",
+        "borderType": "land"
+      },
+      {
+        "country": "Nigeria",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Nigeria",
+    "neighbors": [
+      {
+        "country": "Benin",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Cameroon",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Chad",
+        "borderType": "land"
+      },
+      {
+        "country": "Equatorial Guinea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Niger",
+        "borderType": "land"
+      },
+      {
+        "country": "São Tomé and Príncipe",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Niue",
+    "neighbors": [
+      {
+        "country": "Tonga",
+        "borderType": "maritime"
+      },
+      {
+        "country": "American Samoa",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Cook Islands",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      }
+    ],
+    "includes": [],
+    "notes": "New Zealand"
+  },
+  {
+    "country": "Norfolk Island",
+    "neighbors": [
+      {
+        "country": "New Zealand",
+        "borderType": "maritime"
+      },
+      {
+        "country": "New Caledonia",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": [],
+    "notes": "Australia"
+  },
+  {
+    "country": "North Macedonia",
+    "neighbors": [
+      {
+        "country": "Albania",
+        "borderType": "land"
+      },
+      {
+        "country": "Bulgaria",
+        "borderType": "land"
+      },
+      {
+        "country": "Greece",
+        "borderType": "land"
+      },
+      {
+        "country": "Serbia",
+        "borderType": "land"
+      },
+      {
+        "country": "Kosovo",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "neighbors": [
+      {
+        "country": "Japan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Guam",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Norway",
+    "neighbors": [
+      {
+        "country": "Denmark",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Finland",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Faroe Islands",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      },
+      {
+        "country": "Svalbard",
+        "borderType": "maritime",
+        "notes": "Norway"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Kingdom of Norway",
+    "neighbors": [
+      {
+        "country": "Denmark",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Finland",
+        "borderType": "land"
+      },
+      {
+        "country": "Iceland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "United Kingdom",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Faroe Islands",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      },
+      {
+        "country": "Greenland",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      }
+    ],
+    "includes": [
+      "Bouvet Island",
+      "Jan Mayen",
+      "Norway",
+      "Svalbard"
+    ],
+    "notes": "plus dependent Norwegian territories"
+  },
+  {
+    "country": "Oman",
+    "neighbors": [
+      {
+        "country": "Iran",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Pakistan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "land"
+      },
+      {
+        "country": "United Arab Emirates",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Yemen",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Pakistan",
+    "neighbors": [
+      {
+        "country": "Afghanistan",
+        "borderType": "land"
+      },
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "India",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Iran",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Oman",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Palau",
+    "neighbors": [
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Japan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Federated States of Micronesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Philippines",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Palestine",
+    "neighbors": [
+      {
+        "country": "Egypt",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Israel",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Jordan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Palmyra Atoll",
+    "neighbors": [
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Kingman Reef",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Panama",
+    "neighbors": [
+      {
+        "country": "Colombia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Costa Rica",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Nicaragua",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Papua New Guinea",
+    "neighbors": [
+      {
+        "country": "Australia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Federated States of Micronesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Solomon Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Coral Sea Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Paraguay",
+    "neighbors": [
+      {
+        "country": "Argentina",
+        "borderType": "land"
+      },
+      {
+        "country": "Bolivia",
+        "borderType": "land"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Peru",
+    "neighbors": [
+      {
+        "country": "Bolivia",
+        "borderType": "land"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "land"
+      },
+      {
+        "country": "Chile",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Colombia",
+        "borderType": "land"
+      },
+      {
+        "country": "Ecuador",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Peter I Island",
+    "neighbors": [
+      {
+        "country": "Chilean Antarctic Territory",
+        "borderType": "maritime",
+        "notes": "Chile"
+      }
+    ],
+    "includes": [],
+    "notes": "Norway"
+  },
+  {
+    "country": "Philippines",
+    "neighbors": [
+      {
+        "country": "Brunei",
+        "borderType": "maritime"
+      },
+      {
+        "country": "China",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Japan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Malaysia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Palau",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Taiwan",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Pitcairn Islands",
+    "neighbors": [
+      {
+        "country": "French Polynesia",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Poland",
+    "neighbors": [
+      {
+        "country": "Belarus",
+        "borderType": "land"
+      },
+      {
+        "country": "Czech Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Denmark",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Germany",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Lithuania",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Slovakia",
+        "borderType": "land"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Portugal",
+    "neighbors": [
+      {
+        "country": "Morocco",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Spain",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Puerto Rico",
+    "neighbors": [
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "British Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "United States Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Qatar",
+    "neighbors": [
+      {
+        "country": "Bahrain",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iran",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "United Arab Emirates",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Queen Maud Land",
+    "neighbors": [
+      {
+        "country": "Australian Antarctic Territory",
+        "borderType": "maritime|land",
+        "notes": "Australia"
+      },
+      {
+        "country": "British Antarctic Territory",
+        "borderType": "maritime|land",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": [],
+    "notes": "Norway"
+  },
+  {
+    "country": "Romania",
+    "neighbors": [
+      {
+        "country": "Bulgaria",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Hungary",
+        "borderType": "land"
+      },
+      {
+        "country": "Moldova",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Serbia",
+        "borderType": "land"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Ross Dependency",
+    "neighbors": [
+      {
+        "country": "Australian Antarctic Territory",
+        "borderType": "maritime|land",
+        "notes": "Australia"
+      }
+    ],
+    "includes": [],
+    "notes": "New Zealand"
+  },
+  {
+    "country": "Russia",
+    "neighbors": [
+      {
+        "country": "Azerbaijan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Belarus",
+        "borderType": "land"
+      },
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "Estonia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Finland",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Georgia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Japan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Kazakhstan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "North Korea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Latvia",
+        "borderType": "land"
+      },
+      {
+        "country": "Lithuania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Mongolia",
+        "borderType": "land"
+      },
+      {
+        "country": "Norway",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Poland",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Romania",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Sweden",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "United States",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Svalbard",
+        "borderType": "maritime",
+        "notes": "Norway"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Rwanda",
+    "neighbors": [
+      {
+        "country": "Burundi",
+        "borderType": "land"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "land"
+      },
+      {
+        "country": "Uganda",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Saint Barthélemy",
+    "neighbors": [
+      {
+        "country": "Antigua and Barbuda",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Saint Martin",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Sint Maarten",
+        "borderType": "maritime",
+        "notes": "Netherlands"
+      }
+    ],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "Saint Helena, Ascension and Tristan da Cunha",
+    "neighbors": [],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "neighbors": [
+      {
+        "country": "Antigua and Barbuda",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Montserrat",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Saint Barthélemy",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Saint Lucia",
+    "neighbors": [
+      {
+        "country": "Barbados",
+        "borderType": "maritime"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Saint Martin",
+    "neighbors": [
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Saint Barthélemy",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Sint Maarten",
+        "borderType": "maritime|land",
+        "notes": "Netherlands"
+      }
+    ],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "neighbors": [
+      {
+        "country": "Canada",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "neighbors": [
+      {
+        "country": "Barbados",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Grenada",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Lucia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Samoa",
+    "neighbors": [
+      {
+        "country": "Tonga",
+        "borderType": "maritime"
+      },
+      {
+        "country": "American Samoa",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Tokelau",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Wallis and Futuna",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "San Marino",
+    "neighbors": [
+      {
+        "country": "Italy",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "neighbors": [
+      {
+        "country": "Equatorial Guinea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Gabon",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Nigeria",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Saudi Arabia",
+    "neighbors": [
+      {
+        "country": "Bahrain",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Egypt",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Eritrea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iran",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iraq",
+        "borderType": "land"
+      },
+      {
+        "country": "Jordan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Kuwait",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Oman",
+        "borderType": "land"
+      },
+      {
+        "country": "Qatar",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Sudan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "United Arab Emirates",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Yemen",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Senegal",
+    "neighbors": [
+      {
+        "country": "Cape Verde",
+        "borderType": "maritime"
+      },
+      {
+        "country": "The Gambia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Guinea",
+        "borderType": "land"
+      },
+      {
+        "country": "Guinea-Bissau",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Mali",
+        "borderType": "land"
+      },
+      {
+        "country": "Mauritania",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Serbia",
+    "neighbors": [
+      {
+        "country": "Bosnia and Herzegovina",
+        "borderType": "land"
+      },
+      {
+        "country": "Bulgaria",
+        "borderType": "land"
+      },
+      {
+        "country": "Croatia",
+        "borderType": "land"
+      },
+      {
+        "country": "Hungary",
+        "borderType": "land"
+      },
+      {
+        "country": "Montenegro",
+        "borderType": "land"
+      },
+      {
+        "country": "North Macedonia",
+        "borderType": "land"
+      },
+      {
+        "country": "Romania",
+        "borderType": "land"
+      },
+      {
+        "country": "Kosovo",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Seychelles",
+    "neighbors": [
+      {
+        "country": "Comoros",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Madagascar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mauritius",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "maritime"
+      },
+      {
+        "country": "French Southern and Antarctic Lands",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Sierra Leone",
+    "neighbors": [
+      {
+        "country": "Guinea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Liberia",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Singapore",
+    "neighbors": [
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Malaysia",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Sint Maarten",
+    "neighbors": [
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Barthélemy",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Saint Martin",
+        "borderType": "maritime|land",
+        "notes": "France"
+      }
+    ],
+    "includes": [],
+    "notes": "Netherlands"
+  },
+  {
+    "country": "Slovakia",
+    "neighbors": [
+      {
+        "country": "Austria",
+        "borderType": "land"
+      },
+      {
+        "country": "Czech Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Hungary",
+        "borderType": "land"
+      },
+      {
+        "country": "Poland",
+        "borderType": "land"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Slovenia",
+    "neighbors": [
+      {
+        "country": "Austria",
+        "borderType": "land"
+      },
+      {
+        "country": "Croatia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Hungary",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Solomon Islands",
+    "neighbors": [
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Papua New Guinea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vanuatu",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Coral Sea Islands",
+        "borderType": "maritime",
+        "notes": "Australia"
+      },
+      {
+        "country": "New Caledonia",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Somalia",
+    "neighbors": [
+      {
+        "country": "Djibouti",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Ethiopia",
+        "borderType": "land"
+      },
+      {
+        "country": "Kenya",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Yemen",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Somaliland",
+    "neighbors": [
+      {
+        "country": "Djibouti",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Ethiopia",
+        "borderType": "land"
+      },
+      {
+        "country": "Somalia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Yemen",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "South Africa",
+    "neighbors": [
+      {
+        "country": "Botswana",
+        "borderType": "land"
+      },
+      {
+        "country": "Eswatini",
+        "borderType": "land",
+        "notes": "Swaziland"
+      },
+      {
+        "country": "Lesotho",
+        "borderType": "land"
+      },
+      {
+        "country": "Mozambique",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Namibia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Zimbabwe",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "neighbors": [],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "South Ossetia",
+    "neighbors": [
+      {
+        "country": "Georgia",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "South Sudan",
+    "neighbors": [
+      {
+        "country": "Central African Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "Ethiopia",
+        "borderType": "land"
+      },
+      {
+        "country": "Kenya",
+        "borderType": "land"
+      },
+      {
+        "country": "Sudan",
+        "borderType": "land"
+      },
+      {
+        "country": "Uganda",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Spain",
+    "neighbors": [
+      {
+        "country": "Algeria",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Andorra",
+        "borderType": "land"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Morocco",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Portugal",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Gibraltar",
+        "borderType": "maritime|land",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Western Sahara",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Sri Lanka",
+    "neighbors": [
+      {
+        "country": "India",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Maldives",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Sudan",
+    "neighbors": [
+      {
+        "country": "Central African Republic",
+        "borderType": "land"
+      },
+      {
+        "country": "Chad",
+        "borderType": "land"
+      },
+      {
+        "country": "Egypt",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Eritrea",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Ethiopia",
+        "borderType": "land"
+      },
+      {
+        "country": "Libya",
+        "borderType": "land"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "South Sudan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Suriname",
+    "neighbors": [
+      {
+        "country": "Brazil",
+        "borderType": "land"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Guyana",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Svalbard",
+    "neighbors": [
+      {
+        "country": "Norway",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Greenland",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      }
+    ],
+    "includes": [],
+    "notes": "Norway"
+  },
+  {
+    "country": "Sweden",
+    "neighbors": [
+      {
+        "country": "Denmark",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Estonia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Finland",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Germany",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Latvia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Lithuania",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Norway",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Poland",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Switzerland",
+    "neighbors": [
+      {
+        "country": "Austria",
+        "borderType": "land"
+      },
+      {
+        "country": "France",
+        "borderType": "land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "land"
+      },
+      {
+        "country": "Liechtenstein",
+        "borderType": "land"
+      },
+      {
+        "country": "Germany",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Syria",
+    "neighbors": [
+      {
+        "country": "Cyprus",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iraq",
+        "borderType": "land"
+      },
+      {
+        "country": "Israel",
+        "borderType": "land"
+      },
+      {
+        "country": "Jordan",
+        "borderType": "land"
+      },
+      {
+        "country": "Lebanon",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Northern Cyprus",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Taiwan",
+    "neighbors": [
+      {
+        "country": "Brunei",
+        "borderType": "maritime"
+      },
+      {
+        "country": "China",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Japan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Malaysia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Philippines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Tajikistan",
+    "neighbors": [
+      {
+        "country": "Afghanistan",
+        "borderType": "land"
+      },
+      {
+        "country": "China",
+        "borderType": "land"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "borderType": "land"
+      },
+      {
+        "country": "Uzbekistan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Tanzania",
+    "neighbors": [
+      {
+        "country": "Burundi",
+        "borderType": "land"
+      },
+      {
+        "country": "Comoros",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "Kenya",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Malawi",
+        "borderType": "land"
+      },
+      {
+        "country": "Mozambique",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Rwanda",
+        "borderType": "land"
+      },
+      {
+        "country": "Seychelles",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Uganda",
+        "borderType": "land"
+      },
+      {
+        "country": "Zambia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Thailand",
+    "neighbors": [
+      {
+        "country": "Myanmar",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Cambodia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "India",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Laos",
+        "borderType": "land"
+      },
+      {
+        "country": "Malaysia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Vietnam",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Togo",
+    "neighbors": [
+      {
+        "country": "Benin",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Burkina Faso",
+        "borderType": "land"
+      },
+      {
+        "country": "Ghana",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Tokelau",
+    "neighbors": [
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Samoa",
+        "borderType": "maritime"
+      },
+      {
+        "country": "American Samoa",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Cook Islands",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Wallis and Futuna",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": [],
+    "notes": "New Zealand"
+  },
+  {
+    "country": "Tonga",
+    "neighbors": [
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Samoa",
+        "borderType": "maritime"
+      },
+      {
+        "country": "American Samoa",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Niue",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Wallis and Futuna",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Transnistria",
+    "neighbors": [
+      {
+        "country": "Moldova",
+        "borderType": "land"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "neighbors": [
+      {
+        "country": "Barbados",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Grenada",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Guyana",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Tunisia",
+    "neighbors": [
+      {
+        "country": "Algeria",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Italy",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Libya",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Malta",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Turkey",
+    "neighbors": [
+      {
+        "country": "Armenia",
+        "borderType": "land"
+      },
+      {
+        "country": "Azerbaijan",
+        "borderType": "land"
+      },
+      {
+        "country": "Bulgaria",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Cyprus",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Egypt",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Georgia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Greece",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Iran",
+        "borderType": "land"
+      },
+      {
+        "country": "Iraq",
+        "borderType": "land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Syria",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Ukraine",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Libya",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Northern Cyprus",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Turkmenistan",
+    "neighbors": [
+      {
+        "country": "Afghanistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Azerbaijan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Iran",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Kazakhstan",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Uzbekistan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "neighbors": [
+      {
+        "country": "Bahamas",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United Kingdom"
+  },
+  {
+    "country": "Tuvalu",
+    "neighbors": [
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Wallis and Futuna",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Uganda",
+    "neighbors": [
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "Kenya",
+        "borderType": "land"
+      },
+      {
+        "country": "Rwanda",
+        "borderType": "land"
+      },
+      {
+        "country": "South Sudan",
+        "borderType": "land"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Ukraine",
+    "neighbors": [
+      {
+        "country": "Belarus",
+        "borderType": "land"
+      },
+      {
+        "country": "Hungary",
+        "borderType": "land"
+      },
+      {
+        "country": "Moldova",
+        "borderType": "land"
+      },
+      {
+        "country": "Poland",
+        "borderType": "land"
+      },
+      {
+        "country": "Romania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Slovakia",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkey",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "United Arab Emirates",
+    "neighbors": [
+      {
+        "country": "Iran",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Oman",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Qatar",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "United Kingdom (excluding British overseas territories and Crown dependencies)",
+    "neighbors": [
+      {
+        "country": "Belgium",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Denmark",
+        "borderType": "maritime"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Germany",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Ireland",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Norway",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Faroe Islands",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      },
+      {
+        "country": "Guernsey",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Isle of Man",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "United Kingdom (including British overseas territories and Crown dependencies)",
+    "neighbors": [
+      {
+        "country": "Antigua and Barbuda",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Argentina",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Bahamas",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Belgium",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cyprus",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Denmark",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Germany",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Honduras",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Ireland",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Maldives",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Norway",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Spain",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Faroe Islands",
+        "borderType": "maritime",
+        "notes": "Denmark"
+      },
+      {
+        "country": "French Polynesia",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Puerto Rico",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "Saint Barthélemy",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "Saint Martin",
+        "borderType": "maritime",
+        "notes": "France"
+      },
+      {
+        "country": "United States Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [
+      "Akrotiri and Dhekelia",
+      "Anguilla",
+      "Bermuda",
+      "British Indian Ocean Territory",
+      "British Virgin Islands",
+      "Cayman Islands",
+      "Falkland Islands",
+      "Gibraltar",
+      "Guernsey",
+      "Isle of Man",
+      "Jersey",
+      "Montserrat",
+      "Pitcairn Islands",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "South Georgia and the South Sandwich Islands",
+      "Turks and Caicos Islands"
+    ],
+    "notes": "plus British overseas territories and Crown dependencies"
+  },
+  {
+    "country": "United States (excluding insular areas)",
+    "neighbors": [
+      {
+        "country": "Bahamas",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Canada",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mexico",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Midway Atoll",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "excluding insular areas"
+  },
+  {
+    "country": "United States (including insular areas)",
+    "neighbors": [
+      {
+        "country": "Bahamas",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Canada",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Cuba",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Haiti",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Jamaica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Japan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Kiribati",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Marshall Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Mexico",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Federated States of Micronesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Russia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Samoa",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tonga",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "British Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Cook Islands",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Niue",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      },
+      {
+        "country": "Tokelau",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      }
+    ],
+    "includes": [
+      "American Samoa",
+      "Baker Island",
+      "Guam",
+      "Howland Island",
+      "Jarvis Island",
+      "Johnston Atoll",
+      "Kingman Reef",
+      "Midway Atoll",
+      "→Navassa Island",
+      "Northern Mariana Islands",
+      "Palmyra Atoll",
+      "Puerto Rico",
+      "United States Virgin Islands",
+      "Wake Island"
+    ],
+    "notes": "including insular areas"
+  },
+  {
+    "country": "United States Virgin Islands",
+    "neighbors": [
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Venezuela",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Anguilla",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "British Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Puerto Rico",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Uruguay",
+    "neighbors": [
+      {
+        "country": "Argentina",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "maritime|land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Uzbekistan",
+    "neighbors": [
+      {
+        "country": "Afghanistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Kazakhstan",
+        "borderType": "land"
+      },
+      {
+        "country": "Kyrgyzstan",
+        "borderType": "land"
+      },
+      {
+        "country": "Tajikistan",
+        "borderType": "land"
+      },
+      {
+        "country": "Turkmenistan",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Vanuatu",
+    "neighbors": [
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Solomon Islands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "New Caledonia",
+        "borderType": "maritime",
+        "notes": "France"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Vatican City",
+    "neighbors": [
+      {
+        "country": "Italy",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Venezuela",
+    "neighbors": [
+      {
+        "country": "Barbados",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Brazil",
+        "borderType": "land"
+      },
+      {
+        "country": "Colombia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Dominica",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Dominican Republic",
+        "borderType": "maritime"
+      },
+      {
+        "country": "France",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Grenada",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Guyana",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Netherlands",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Kitts and Nevis",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Lucia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Saint Vincent and the Grenadines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Trinidad and Tobago",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Aruba",
+        "borderType": "maritime",
+        "notes": "Netherlands"
+      },
+      {
+        "country": "Curaçao",
+        "borderType": "maritime",
+        "notes": "Netherlands"
+      },
+      {
+        "country": "Montserrat",
+        "borderType": "maritime",
+        "notes": "United Kingdom"
+      },
+      {
+        "country": "Puerto Rico",
+        "borderType": "maritime",
+        "notes": "United States"
+      },
+      {
+        "country": "United States Virgin Islands",
+        "borderType": "maritime",
+        "notes": "United States"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Vietnam",
+    "neighbors": [
+      {
+        "country": "Brunei",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Cambodia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "China",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Indonesia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Laos",
+        "borderType": "land"
+      },
+      {
+        "country": "Malaysia",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Philippines",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Taiwan",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Thailand",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Wake Island",
+    "neighbors": [
+      {
+        "country": "Marshall Islands",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": [],
+    "notes": "United States"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "neighbors": [
+      {
+        "country": "Fiji",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Samoa",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tonga",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tuvalu",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Tokelau",
+        "borderType": "maritime",
+        "notes": "New Zealand"
+      }
+    ],
+    "includes": [],
+    "notes": "France"
+  },
+  {
+    "country": "Western Sahara",
+    "neighbors": [
+      {
+        "country": "Algeria",
+        "borderType": "land"
+      },
+      {
+        "country": "Mauritania",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Morocco",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Spain",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Yemen",
+    "neighbors": [
+      {
+        "country": "Djibouti",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Eritrea",
+        "borderType": "maritime"
+      },
+      {
+        "country": "Oman",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Saudi Arabia",
+        "borderType": "maritime|land"
+      },
+      {
+        "country": "Somalia",
+        "borderType": "maritime"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Zambia",
+    "neighbors": [
+      {
+        "country": "Angola",
+        "borderType": "land"
+      },
+      {
+        "country": "Botswana",
+        "borderType": "land"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "borderType": "land"
+      },
+      {
+        "country": "Malawi",
+        "borderType": "land"
+      },
+      {
+        "country": "Mozambique",
+        "borderType": "land"
+      },
+      {
+        "country": "Namibia",
+        "borderType": "land"
+      },
+      {
+        "country": "Tanzania",
+        "borderType": "land"
+      },
+      {
+        "country": "Zimbabwe",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  },
+  {
+    "country": "Zimbabwe",
+    "neighbors": [
+      {
+        "country": "Botswana",
+        "borderType": "land"
+      },
+      {
+        "country": "Mozambique",
+        "borderType": "land"
+      },
+      {
+        "country": "South Africa",
+        "borderType": "land"
+      },
+      {
+        "country": "Zambia",
+        "borderType": "land"
+      }
+    ],
+    "includes": []
+  }
+]
