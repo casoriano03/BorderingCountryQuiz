@@ -29,17 +29,16 @@ namespace BorderingCountryQuiz
 
             while (_gameService.IsGameRunning)
             {
-                //cheat code
+                _gameService.ShowGame(selectedCountry);
+
                 Console.WriteLine($"{selectedCountry.country}");
                 foreach (var neighbor in selectedCountry.Neighbors)
                 {
                     Console.WriteLine($"-{neighbor}");
                 }
-                // 
-
-                _gameService.ShowGame(selectedCountry);
                 var answer = _countryService.AskForNeighborsOfRandomCountry();
-                _gameService.CheckAnswer(answer, selectedCountry);
+                var answerExists = _gameService.CheckAnswer(answer, selectedCountry);
+                _gameService.UpdateGameVariables(answerExists, answer);
                 _gameService.WinningOrLosingCondition(selectedCountry);
                 Thread.Sleep(1500);
                 Console.Clear();

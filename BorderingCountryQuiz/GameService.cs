@@ -25,14 +25,15 @@ namespace BorderingCountryQuiz
             _neighborCountriesToGuess = selectedCountry.Neighbors.ToList();
         }
 
-        public void CheckAnswer(string answer, Country selectedCountry)
+        public bool CheckAnswer(string answer, Country selectedCountry)
         {
             var answerExists = selectedCountry.Neighbors
                 .Any(neighbor => neighbor.Contains(answer) || neighbor == answer);
-            UpdateGameVariables(answerExists, answer);
+         
+            return answerExists;
         }
 
-        private void UpdateGameVariables(bool answerExists, string answer)
+        public void UpdateGameVariables(bool answerExists, string answer)
         {
 
             if (answerExists)
@@ -40,7 +41,7 @@ namespace BorderingCountryQuiz
                 NumberCountriesToGuess--;
                 _numberCorrectGuess++;
                 CorrectCountriesGuessed.Add(answer);
-                _neighborCountriesToGuess.Remove(answer);
+                if (_neighborCountriesToGuess != null) _neighborCountriesToGuess.Remove(answer);
                 Console.WriteLine($"Du har gjettet riktig!");
             }
             else
@@ -52,6 +53,7 @@ namespace BorderingCountryQuiz
 
         public void ShowGame(Country selectedCountry)
         {
+            Console.Clear();
             Console.WriteLine($"Gjett nabolandene til {selectedCountry.country}");
             Console.WriteLine($"Landene du klarte å gjette:");
             foreach (var country in CorrectCountriesGuessed)
@@ -118,10 +120,11 @@ namespace BorderingCountryQuiz
         private void ShowUnidentifiedCountries()
         {
             Console.WriteLine("Landene du klarte ikke å gjette:");
-            foreach (var neighbor in _neighborCountriesToGuess)
-            {
-                Console.WriteLine($"{neighbor}");
-            }
+            if (_neighborCountriesToGuess != null)
+                foreach (var neighbor in _neighborCountriesToGuess)
+                {
+                    Console.WriteLine($"{neighbor}");
+                }
         }
     }
 }
